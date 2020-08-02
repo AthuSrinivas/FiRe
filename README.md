@@ -1,5 +1,5 @@
 # FiRe
-(Fi)re (Re)scue is the project where we use the data collected from NASA satellite as where Wildfires have started very recent and we use those co-ordinates to Geocode it to an address and retrieve the Phone Numbers of all the Fire Stations which are near to that co-ordinates by Web Scraping.
+(Fi)re (Re)scue is the project where we use the data collected from NASA satellites, as where Wildfires have started at latest and we use those co-ordinates to Geocode it to an address and retrieve the Phone Numbers of all the Fire Stations which are near to that co-ordinates by Web Scraping.
 
 The phone numbers which were retrieved can be used to notify the Fire Stations of the wildfire ahead of physical presence.
 
